@@ -6,6 +6,6 @@ As part of our data-gathering and analysis, we have recorded distinct issues for
 
 The following chart details the issues evaluated as part of this app security testing study.
 
-![](dynamic-analysis-issues.png)
+![](assets\dynamic-analysis-issues.png)
 
 Our automated app security testing system also allows us to gather metadata about an app including its category and number of downloads, which allowed us to filter and group the information as we have below.

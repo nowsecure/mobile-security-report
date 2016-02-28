@@ -9,7 +9,7 @@ The following Android statistics give you a sense of just how many people use th
 * Android currently has an estimated 1.6 million apps available on Google Play<sup>[13](http://www.statista.com/statistics/266210/number-of-available-applications-in-the-google-play-store/)</sup> 
 * Only 43.8 percent of Android users have adopted Android Lollipop according to NowSecure mobile security intelligence
 
-![](01_AndroidDeviceOSinUse.png)
+![](assets\01_AndroidDeviceOSinUse.png)
 
 Security issues persist within the Android OS. Statistics from our open-source app that checks a device for recent OS vulnerabilities, Vulnerability Test Suite (VTS) for Android, show that 82 percent of Android devices were vulnerable to at least one of 25 OS flaws for which VTS tests. Those devices could be prone to hundreds more vulnerabilities that the app doesn’t assess. Unfortunately, a significant amount of time can pass between when a vulnerability is found to when it’s actually patched. Once a patch is developed, it must be passed through manufacturers (OEMs) and wireless carriers like Verizon, AT&T and T-Mobile. Patches can take many months or more than a year to make their way to users’ devices. Even then, OEMs or carriers sometimes choose not to patch devices. Such a lengthy patch lifecycle, or the altogether absence of a patch, leaves users exposed to attacks and data theft.
 
@@ -17,7 +17,7 @@ Security issues persist within the Android OS. Statistics from our open-source a
 
 Apple iOS represents the other major mobile OS platform. Based on our mobile security intelligence, 82.8 percent of iOS users have adopted iOS 9 and subsequent updates. This data point does not ensure that a particular version of iOS is secure - but shows the rate of update is measurably faster.
 
-![](02_IOSDevceinUse.png)
+![](assets\02_IOSDevceinUse.png)
 
 Vulnerabilities still exist on iOS devices. According to an analysis of data from CVE Details, a free CVE security vulnerability database, Apple iOS had the most vulnerabilities in 2015 with 375.<sup>[14](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)</sup> That’s nearly three times more than Android, which had 130. While the overall number of CVEs was higher for iOS, that statistic does not necessarily account for the risk level of each vulnerability.
 
