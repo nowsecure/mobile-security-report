@@ -1,0 +1,22 @@
+# Summary
+
+* [Introduction: Security in a mobile world](README.md)
+* [Mobile security requires new methods](chapter1.md)
+* [Mobile security snapshot](mobile_security_snapshot.md)
+   * [System issues](system_issues.md)
+   * [Configuration issues](configuration_issues.md)
+   * [App issues](app_issues.md)
+       * [Leaky apps and social engineering](leaky_apps_and_social_engineering.md)
+       * [A note on app containerization](a_note_on_app_containerization.md)
+   * [Network issues](network_issues.md)
+* [Detailed app vulnerability findings](detailed_app_vulnerability_findings.md)
+   * [Methodology](methodology.md)
+   * [Overview of app security weaknesses](overview_of_app_security_weaknesses.md)
+   * [Security weaknesses by app category](security_weaknesses_by_app_category.md)
+       * [Business](business.md)
+       * [Finance](finance.md)
+       * [Games](games.md)
+       * [Shopping](shopping.md)
+       * [Social](social.md)
+* [Conclusion](conclusion.md)
+
