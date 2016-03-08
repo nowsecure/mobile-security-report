@@ -1,3 +1,8 @@
+<div class="cta-banner">
+  <a class="cta-banner-pdf" href="https://info.nowsecure.com/2016-NowSecure-mobile-security-report.html">Read PDF<i class="fa fa-file-pdf-o"></i></a>
+    <a class="cta-banner-update" href="https://info.nowsecure.com/mobile-security-report-updates.html">Receive Updates<i class="fa fa-bell-o"></i></a>
+</div>
+
 # Introduction: Security in a mobile world
 
 IT and security professionals who manage and secure personal and corporate-owned mobile devices for enterprises have a difficult job. People want to use a wide range of different devices and mobile apps to access enterprise assets, interact with corporate data, and collaborate with their colleagues. Because mobile began as a consumer technology, many devices lack the security and administrative functions that IT and security teams use to manage traditional endpoints such as laptops and desktops.
