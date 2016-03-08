@@ -1,6 +1,6 @@
 # Social
 
-Communication apps that allow users to participate in social media make up the Social category. These applications share messages, photos, videos, and other media through popular social media platforms. 
+Apps that allow users to participate via social media make up the Social category. These applications share messages, photos, videos, and other media through popular social media platforms. 
 
 ![](assets\09_Social .png)
 
