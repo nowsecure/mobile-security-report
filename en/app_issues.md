@@ -1,3 +1,8 @@
+<div class="cta-banner">
+  <a class="cta-banner-pdf" href="https://info.nowsecure.com/2016-NowSecure-mobile-security-report.html">Read PDF<i class="fa fa-file-pdf-o"></i></a>
+    <a class="cta-banner-update" href="https://info.nowsecure.com/mobile-security-report-updates.html">Receive Updates<i class="fa fa-bell-o"></i></a>
+</div>
+
 ## App issues
 
 Here we provide a high-level summary of the security of mobile apps, based on our in-depth app vulnerability findings which are explained in the “Detailed App Vulnerability Findings” section of this report.

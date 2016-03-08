@@ -1,23 +1,23 @@
 {
-    "gitbook": "2.x.x",
-    "plugins": ["edit-link", "ga"],
-    "pluginsConfig": {
-        "edit-link": {
-            "base": "https://github.com/nowsecure/mobile-app-security-study/tree/master",
-            "label": "Edit This Page"
-        },
-        "ga": {
-          "token": "UA-4968988-13"
-        }
+  "gitbook": "2.x.x",
+  "plugins": ["edit-link", "ga"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/nowsecure/mobile-security-report/tree/master",
+      "label": "Edit This Page"
     },
-    "title": "Mobile App Security Study | NowSecure",
-    "links": {
-        "sidebar": {
-            "NowSecure": "https://www.nowsecure.com/"
-        }
-    },
-    "styles": {
-        "website": "styles/website.css",
-        "pdf": "styles/pdf.css"
+    "ga": {
+      "token": "UA-4968988-13"
     }
+  },
+  "title": "Mobile Security Report | NowSecure",
+  "links": {
+    "sidebar": {
+      "NowSecure": "https://www.nowsecure.com/"
+    }
+  },
+  "styles": {
+    "website": "styles/website.css",
+    "pdf": "styles/pdf.css"
+  }
 }
