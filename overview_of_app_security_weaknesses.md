@@ -10,4 +10,4 @@ The chart below illustrates the quantity of issues found by type for the most po
 
 ![](assets\1MillionApps-3.png)
 
-This chart illustrates that mobile apps continue to leak usernames, passwords, and email addresses. This is particularly concerning because many users reuse the same username and password for different applications. The compromise of a user’s credentials for one app could easily lead to the compromise of another app or web account.
+This chart illustrates that mobile apps continue to leak usernames, passwords, and email addresses. This is particularly concerning because many users reuse the same username and password for different apps. The compromise of a user’s credentials for one app could easily lead to the compromise of another app or web account.
