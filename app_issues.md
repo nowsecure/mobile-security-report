@@ -1,4 +1,4 @@
-## App issues
+# App issues
 
 Here we provide a high-level summary of the security of mobile apps, based on our in-depth app vulnerability findings which are explained in the “Detailed App Vulnerability Findings” section of this report.
 
