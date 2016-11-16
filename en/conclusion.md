@@ -1,8 +1,3 @@
-<div class="cta-banner">
-  <a class="cta-banner-pdf" href="https://info.nowsecure.com/2016-NowSecure-mobile-security-report.html">Read PDF<i class="fa fa-file-pdf-o"></i></a>
-    <a class="cta-banner-update" href="https://info.nowsecure.com/mobile-security-report-updates.html">Receive Updates<i class="fa fa-bell-o"></i></a>
-</div>
-
 # Conclusion
 
 We founded NowSecure focused solely on mobile security. Our company mission is to secure mobile devices and apps and protect the people that use them. Our mobile app testing, device monitoring, forensics and security intelligence capabilities provide us with a unique set of mobile security data.

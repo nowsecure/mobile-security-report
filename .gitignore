@@ -20,3 +20,4 @@ _book
 
 # vim swap files
 .swp
+.*rc

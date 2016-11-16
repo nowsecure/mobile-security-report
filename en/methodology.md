@@ -1,8 +1,3 @@
-<div class="cta-banner">
-  <a class="cta-banner-pdf" href="https://info.nowsecure.com/2016-NowSecure-mobile-security-report.html">Read PDF<i class="fa fa-file-pdf-o"></i></a>
-    <a class="cta-banner-update" href="https://info.nowsecure.com/mobile-security-report-updates.html">Receive Updates<i class="fa fa-bell-o"></i></a>
-</div>
-
 # Methodology
 
 Our detailed app findings come from the analysis of more than 400,000 apps published on the Google Play store. We evaluated these apps using NowSecure’s automated app security testing system. The scalable system allows us to test mobile applications for high-risk security and privacy problems including the sending of sensitive data without proper encryption. Each app is automatically tested on a physical device to reduce false positives and avoid instances where an app avoids executing functions because it detects that it is running on an emulator. 

@@ -1,9 +1,4 @@
-<div class="cta-banner">
-  <a class="cta-banner-pdf" href="https://info.nowsecure.com/2016-NowSecure-mobile-security-report.html">Read PDF<i class="fa fa-file-pdf-o"></i></a>
-    <a class="cta-banner-update" href="https://info.nowsecure.com/mobile-security-report-updates.html">Receive Updates<i class="fa fa-bell-o"></i></a>
-</div>
-
-# Mobile security snapshot
+# Mobile Security Snapshot
 
 We’ve structured our report to highlight our findings across each domain of NowSecure’s SCAN Principle for mobile security. Much of the data comes from our proprietary collection of mobile security data, statistics and trends. Our NowSecure Intelligence database gathers and correlates more than 140 million data points each day from users of our NowSecure Protect app in more than 180 countries. The app performs anonymous, non-invasive security assessments of the mobile device on which it’s installed. This trove of data highlights device health trends, mobile device security across regions, operating systems in use, vulnerability prevalence, and the IP addresses to which devices connect with or without permission.<sup>[9](https://www.nowsecure.com/intelligence/)</sup>
 

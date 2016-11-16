@@ -1,0 +1,19 @@
+s3_id: <%= ENV['S3_ID'] %>
+s3_secret: <%= ENV['S3_SECRET'] %>
+s3_bucket: <%= ENV['S3_BUCKET'] %>
+s3_key_prefix: 'mobile-security-report'
+s3_endpoint: us-west-2
+site: _book
+max_age:
+ "en/styles/*": 28800
+ "*": 7200
+gzip:
+ - .html
+ - .js
+ - .css
+ - .jpg
+ - .json
+treat_zero_length_objects_as_redirects: true
+redirects:
+  en/chapter1.html: en/mobile_security_requires_new_methods.html
+  

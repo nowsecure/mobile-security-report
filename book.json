@@ -1,6 +1,6 @@
 {
-  "gitbook": "2.x.x",
-  "plugins": ["edit-link", "ga"],
+  "gitbook": "3.x.x",
+  "plugins": ["edit-link", "ga", "links"],
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/nowsecure/mobile-security-report/tree/master",
@@ -8,6 +8,20 @@
     },
     "ga": {
       "token": "UA-4968988-13"
+    },
+    "links": { 
+      "links": [
+        {
+            "label": "Read PDF",
+            "icon": "fa fa-file-pdf-o",
+            "url": "https://info.nowsecure.com/2016-NowSecure-mobile-security-report.html"
+        },
+        {
+            "label": "Receive Updates",
+            "icon": "fa fa-bell-o",
+            "url": "https://info.nowsecure.com/mobile-security-report-updates.html"
+        }
+      ]
     }
   },
   "title": "Mobile Security Report | NowSecure",
